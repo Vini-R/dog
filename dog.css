@@ -16,3 +16,15 @@
 .dog-image{
    width: 100%;
 }
+.dog-button{
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    border-radius: 12px;
+    margin-top:30px;
+    padding:10px;
+    width:250px;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:20px;
+}
